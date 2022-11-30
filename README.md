@@ -1,16 +1,39 @@
-### Hi there 👋
 
-<!--
-**yumidiane/yumidiane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Tiffany! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I am an operations manager with advanced Excel skills looking to transition to an analyst role.  I am working towards becoming a full stack data analyst. 
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://https://github.com/yumidiane)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiffany-anguiano)
+
+
+
+## 🛠 Skills
+1. Excel VBA
+2. SQL
+
+
+
+
+## Other Common Github Profile Sections
+👩‍💻 I'm currently working on transitioning to a new career path
+
+🧠 I'm currently learning: Python, dbt, Git, R, PowerBI, Tableau, Looker and GraphQL
+
+📫 How to reach me: LinkedIn
+
+😄 Pronouns: she/her
+
+
+
+
+![Logo](https://github-readme-stats.vercel.app/api?username=yumidiane&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+
+
+## Professional Development
+![Logo](https://udemy-certificate.s3.amazonaws.com/image/UC-0ba26c36-ccc0-494b-b92d-d73f466bc8a5.jpg?v=1668720972000)
