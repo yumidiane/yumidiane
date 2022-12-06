@@ -20,7 +20,7 @@ I am an operations manager with advanced Excel skills looking to transition to a
 
 
 
-## Other Common Github Profile Sections
+## Other
 👩‍💻 I'm currently working on transitioning to a new career path
 
 🧠 I'm currently learning: Python, dbt, Git, R, PowerBI, Tableau, Looker and GraphQL
