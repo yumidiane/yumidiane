@@ -3,7 +3,7 @@
 
 
 ## 🚀 About Me
-I am an operations manager with advanced Excel skills looking to transition to an analyst role.  I am working towards becoming a full stack data analyst. 
+I am an operations manager with advanced Excel skills looking to transition to an analytical role.  
 
 
 ## 🔗 Links
@@ -15,6 +15,7 @@ I am an operations manager with advanced Excel skills looking to transition to a
 ## 🛠 Skills
 1. Excel VBA
 2. SQL
+3. dbt
 
 
 
