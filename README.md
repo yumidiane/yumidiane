@@ -37,6 +37,7 @@ I am an operations manager with advanced Excel skills looking to transition to a
 
 
 ## Professional Development
+![Logo](https://www.datacamp.com/statement-of-accomplishment/track/c14cc5fe175db37566b9b6824a555520678651e3)
 ![Logo](https://udemy-certificate.s3.amazonaws.com/image/UC-0ba26c36-ccc0-494b-b92d-d73f466bc8a5.jpg?v=1668720972000)
 ![Logo](https://udemy-certificate.s3.amazonaws.com/image/UC-38b05fa3-6dce-4d76-ae3d-9b14d90c6e6f.jpg?v=1670268009000)
 
